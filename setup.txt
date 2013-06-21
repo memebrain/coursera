@@ -1,0 +1,6 @@
+sudo apt-get install -y git-core
+git config --global user.name "memebrain"
+git config --global user.email you@example.com
+git status -s
+git add
+git commit
